@@ -1,6 +1,6 @@
 # Welcome to my GitHub...
 Visit some of my other properties
-- [About Me](https://jmshearer.com)
+- [About Me](http://jmshearer.com)
 - [LoveFeastTogether.org](https://lovefeasttogether.org) (a side project)
 - [GTP Corporation](https://www.gtpcorp.com) (my day job)
 - [SKUpics](https://www.skupics.com) (my day job)
