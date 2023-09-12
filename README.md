@@ -1,10 +1,10 @@
 # Welcome to my GitHub...
 Visit some of my other properties
 - [About Me](http://jmshearer.com)
-- [LoveFeastTogether.org](https://lovefeasttogether.org) (a side project)
 - [GTP Corporation](https://www.gtpcorp.com) (my day job)
-- [SKUpics](https://www.skupics.com) (my day job)
+- [SKUpics](https://www.skupics.com) (a company I helped launched and then sell)
 - [Camp Swatara](http://www.campswatara.org) (one of my passions)
+- [LoveFeastTogether.org](https://lovefeasttogether.org) (a side project)
 
 ## A reminder when you look at my code...
 
