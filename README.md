@@ -1,6 +1,6 @@
 # Welcome to my GitHub
 
-While I've spen the last 25+ years developing software professionally, you'll likely find none of that here...it's all in private or organization repos.  Instead you'll mostly find a collection of random projects I've built for specific purposes and/or to have some fun with my kids.  I.e. don't judge!
+While I've spen the last 25+ years developing software professionally, you'll likely find none of that here...it's all in private or organization repos.  Instead you'll mostly find a collection of random projects I've built for specific purposes and/or to have some fun with my kids.  I.e. don't judge!  Instead, clone, experiment, and share the love of STEM with others.
 
 If you're interested in some of my professional work:
 - [About Me](http://jmshearer.com)
