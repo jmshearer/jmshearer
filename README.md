@@ -1,5 +1,8 @@
-# Welcome to my GitHub...
-Visit some of my other properties
+# Welcome to my GitHub
+
+While I've spen the last 25+ years developing software professionally, you'll likely find none of that here...it's all in private or organization repos.  Instead you'll mostly find a collection of random projects I've built for specific purposes and/or to have some fun with my kids.  I.e. don't judge!
+
+If you're interested in some of my professional work:
 - [About Me](http://jmshearer.com)
 - [GTP Corporation](https://www.gtpcorp.com) (my day job)
 - [SKUpics](https://www.skupics.com) (a company I helped launched and then sell)
